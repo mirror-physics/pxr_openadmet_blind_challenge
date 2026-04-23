@@ -1,0 +1,14 @@
+[project]
+name = "pxr-openadmet-blind-challenge"
+version = "0.1.0"
+description = "Mirror Physics data for OpenADMET's second blind challenge on PXR data"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boltz>=2.2.1",
+    "chemprop>=2.2.3",
+    "ipython>=9.12.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "seaborn>=0.13.2",
+]
