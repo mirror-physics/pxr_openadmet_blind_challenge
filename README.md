@@ -1,4 +1,8 @@
-# Mirror Physics documentation for OpenADMET PXR Blind Challenge
+<div align="center">
+  <img src=".mirror_logo.png" alt="Mirror Physics Logo" width="250">
+</div>
+
+# OpenADMET PXR Blind Challenge Reports
 
 This repo contains model reports and other information from Mirror Physics entries for the blind challenge from OpenADMET on the PXR protein. More information about the challenge is available on [its HuggingFace page](https://huggingface.co/spaces/openadmet/pxr-challenge) and on OpenADMET's [blog announcing the challenge](https://openadmet.ghost.io/announcing-the-next-openadmet-blind-challenge-predicting-pxr-induction/). The challenge includes two tracks:
 
